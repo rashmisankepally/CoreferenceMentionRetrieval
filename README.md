@@ -1,2 +1,2 @@
-# CoreferenceMentionRetrieval
+# CoreferentMentionRetrieval
 Test Collection for the Coreference Mention Retrieval task
